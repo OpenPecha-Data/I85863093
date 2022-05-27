@@ -1,0 +1,55 @@
+id: I85863093
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T14:55:09.313461'
+last_modified: '2022-05-27T14:55:09.313473'
+parser: null
+source_metadata:
+  title: Drāmiḍāvidyārājā
+  language: bo
+  base:
+    f8D18:
+      title: Title
+      base_file: f8D18.txt
+      order: 1
+    fCAD4:
+      title: Preface
+      base_file: fCAD4.txt
+      order: 2
+    f03A4:
+      title: THE MANTRA SPOKEN BY ĀRYA AVALOKITEŚVARA
+      base_file: f03A4.txt
+      order: 3
+    f6299:
+      title: DHĀRAṆĪPADA OF GUHYAPATI VAJRAPĀṆI
+      base_file: f6299.txt
+      order: 4
+    fB559:
+      title: THE DHĀRAṆĪMANTRAPADA OF BRAHMĀ SAHAMPATI
+      base_file: fB559.txt
+      order: 5
+    fBFC5:
+      title: DHARAṆĪPADA OF ŚAKRA DEVĀNĀMINDRA
+      base_file: fBFC5.txt
+      order: 6
+    fCF5F:
+      title: THE DHARAṆĪMANTRAPADA OF THE FOUR GREAT KINGS
+      base_file: fCF5F.txt
+      order: 7
+    fB7BD:
+      title: THE NĀGA KINGS
+      base_file: fB7BD.txt
+      order: 8
+    fF872:
+      title: Colophon
+      base_file: fF872.txt
+      order: 9
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
